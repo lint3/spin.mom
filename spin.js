@@ -1,9 +1,9 @@
 let element = document.getElementById('sprite');
 let sprite = new AnimateSprite(element, {
-  width: 800, /* required */
-  height: 450, /* required */
-  frames: 90, /* required */
-  cols: 10,
+  width: 960, /* required */
+  height: 540, /* required */
+  frames: 35, /* required */
+  cols: 1,
   fps: 60,
   loop: true,
   draggable: true
