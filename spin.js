@@ -1,6 +1,6 @@
 let element = document.getElementById('sprite');
 let sprite = new AnimateSprite(element, {
-  width: 480, /* required */
+  width: 960, /* required */
   height: 540, /* required */
   frames: 35, /* required */
   cols: 35,
