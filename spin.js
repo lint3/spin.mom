@@ -4,7 +4,7 @@ let sprite = new AnimateSprite(element, {
   height: 540, /* required */
   frames: 35, /* required */
   cols: 35,
-  fps: 12,
+  frameTime: 100,
   loop: true,
   draggable: true
 });
